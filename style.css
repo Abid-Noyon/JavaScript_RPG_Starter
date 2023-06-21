@@ -1,5 +1,6 @@
 body {
     background-color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #text {
@@ -38,4 +39,15 @@ body {
 
 .stat {
     padding-right: 10px;
+}
+
+#devAbid {
+    padding: 5px 5px;
+    background-color: rebeccapurple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+
+a {
+    color: white;
 }
